@@ -1,3 +1,3 @@
 # CHATS!
  
-programa para poder comunicarte
+This is a web application for communication.
