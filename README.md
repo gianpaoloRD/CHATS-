@@ -1,5 +1,8 @@
 # CHATS!
  
-This is a web application for communication.
+Esta es un programa para comunicarse.
 
-1. and is a very simple to use.
+1. Es simple de utilizar 
+2. Trae un juego 
+3. el codigo es 12345 para registrarte.
+4. tiene algunos fallos pero eso se arreglara en el trascurso del tiempo
