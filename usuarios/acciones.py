@@ -2,7 +2,7 @@ import usuarios.usuario as modelo
 from notas import acciones as modulo 
 import pyfiglet
 import smtplib
-from shooter_pygame import play as juegos
+from shooter import play as juegos
 nota = modulo.Acciones()
 jugar = juegos.juego()
 class Acciones:
