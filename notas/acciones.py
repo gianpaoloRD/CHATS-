@@ -18,10 +18,8 @@ class Acciones:
     def ver(self,login):
         print(f"\nSaludos {login[1]} tus mensajes son los siguientes:")
 
-        sms = message.Nota(0,login[2])
+        sms = message.Nota(0,login[3])
         enviado = sms.mensajes()
-
-        print("Tus notas son las siguentes")
         for i in enviado:
            print("#########################################")
            print(f"Titulo: {i[0]}")
